@@ -1,0 +1,4 @@
+1. First play with String
+String firstName = "test1";
+String lastName = "test2";
+Console.WriteLine($"Hello {firstName} {lastName}");
